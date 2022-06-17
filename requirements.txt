@@ -1,8 +1,8 @@
 streamlit==1.10.0
-tensorflow==2.9.1
 numpy==1.21.3
 matplotlib==3.5.1
 pandas==1.4.0
 streamlit-drawable-canvas==0.9.1
 opencv-python==4.5.5.62
 h5py==3.7.0
+from keras.models import load_model
